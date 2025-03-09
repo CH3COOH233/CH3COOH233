@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm 乙酸不是蚁酸233</h1>
+<h3 align="center">A bilibili uploader from China</h3>
 
-<!--
-**CH3COOH233/CH3COOH233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch3cooh233&label=Profile%20views&color=0e75b6&style=flat" alt="ch3cooh233" /> </p>
 
-Here are some ideas to get you started:
+- 📝 I regularly write articles on Wechat Official Account [https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk1Nzc4MzE1MA%3D%3D](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk1Nzc4MzE1MA%3D%3D)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Minecraft_Server or Utau**
+
+- 📫 How to reach me **CH3COOH233@icloud.com or QQ:172764339**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
