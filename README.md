@@ -9,6 +9,3 @@
 
 - 📫 How to reach me **CH3COOH233@icloud.com or QQ:172764339**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
